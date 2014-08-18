@@ -24,6 +24,12 @@
   }
 }
 
+.vericoin {
+  .header {
+    background-color: darken($silver, 25%);
+  }
+}
+
 .header__balance {
   @include clickbtn;
   @extend .jigsaw-light;
