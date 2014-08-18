@@ -20,6 +20,11 @@ module.exports = function(el){
           litecoin: true
         }
       ],
+      {
+          token: 'vericoin',
+          litecoin: true
+        }
+      ],
       capitalize: function(str){
         return str.replace(/^.|\s\S/g, function(a) {
          return a.toUpperCase()
