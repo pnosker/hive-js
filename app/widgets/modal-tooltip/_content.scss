@@ -60,3 +60,14 @@
     }
   }
 }
+
+.litecoin {
+  .tooltip__link {
+    a {
+      color: $silver;
+      &:hover {
+        color: $silver;
+      }
+    }
+  }
+}
