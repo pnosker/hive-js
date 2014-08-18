@@ -22,7 +22,7 @@ module.exports = function(el){
       ],
       {
           token: 'vericoin',
-          litecoin: true
+          vericoin: true
         }
       ], 
       capitalize: function(str){
