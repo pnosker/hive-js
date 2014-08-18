@@ -268,6 +268,22 @@ textarea.placeholder_text {
   }
 }
 
+.vericoin {
+  input::-webkit-input-placeholder,
+  textarea::-webkit-input-placeholder {
+    color: lighten($silver, 45%);;
+  }
+
+  input:-moz-placeholder,
+  textarea:-moz-placeholder {
+    color: lighten($silver, 45%);;
+  }
+
+  input.placeholder_text,
+  textarea.placeholder_text {
+    color: lighten($silver, 45%);;
+  }
+}
 
 // Big Text Areas
 
