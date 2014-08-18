@@ -10,4 +10,7 @@ module.exports = {
   litecoin: {
     default: 'LTC'
   }
+  vericoin: {
+    default: 'VRC'
+  }
 }
