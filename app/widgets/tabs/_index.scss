@@ -9,6 +9,12 @@
   }
 }
 
+.litecoin {
+  #tabs {
+    background-color: darken($silver, 10%);
+  }
+}
+
 #tabs .tabs {
   display: flex;
   justify-content: space-between;
