@@ -92,7 +92,7 @@ describe('geo', function(){
       })
     })
 
-    it('retuns users from all networks when no network is specified', function(done){
+    it('returns users from all networks when no network is specified', function(done){
       var userInfo1 = {id: "foo", name: "Kuba", email: "kuba@example.com", network: "litecoin"}
       var userInfo2 = {id: "bar", name: "Wendell", email: "wendell@example.com", network: "bitcoin"}
 
